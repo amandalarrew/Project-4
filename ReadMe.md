@@ -24,11 +24,12 @@ This project highlights 7 Convolutional Neural Network (CNN) models with differe
 
 The results of this model are summarized below:
 
-Averarge Accuracy: 83%
-Average Recall: 79%
-Precision: 78%
-Malignant Recall: 71%
-Benign Recall: 88%
+- Averarge Accuracy: 83%
+- Average Recall: 79%
+- Precision: 78%
+- Malignant Recall: 71%
+- Benign Recall: 88%
+
 There were other models that performed better on paper, but ultimately model 6 was selected because recall was being optimized, in an effort to minimize false negatives for a medical classification problem. The intention is to ensure no one gets turned away that needs to be treated.
 
 Ultimately, I think this dataset needs more data to train with and scores would be higher. Additionally there is class imbalance between malignant and benign classes leading to higher benign recall scores. I will continue to improve this project by addressing the class imbalance through thresholding. Additionally, I want to continue to hyperparameter tune my best model and also look into zooming in to the image to only include the skin condition.
