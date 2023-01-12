@@ -26,7 +26,7 @@ The results of this model are summarized below:
 
 - Averarge Accuracy: 83%
 - Average Recall: 79%
-- Precision: 78%
+- Average Precision: 78%
 - Malignant Recall: 71%
 - Benign Recall: 88%
 
