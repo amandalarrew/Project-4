@@ -34,8 +34,7 @@ There were other models that performed better on paper, but ultimately model 6 w
 Ultimately, I think this dataset needs more data to train with and scores would be higher. Additionally there is class imbalance between malignant and benign classes leading to higher benign recall scores. I will continue to improve this project by addressing the class imbalance through thresholding. Additionally, I want to continue to hyperparameter tune my best model and also look into zooming in to the image to only include the skin condition.
 
 ---
-# Streamlit Applicati
+# Streamlit Application
 
 https://user-images.githubusercontent.com/114830638/212193676-371726fa-8e67-4f0a-9b63-6c82389d5af3.mov
 
-on 
